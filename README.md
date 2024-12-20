@@ -1,7 +1,7 @@
-## Bspwm
-![preview](bspwm.png)
 ## Awesomewm
-![preview2](awesomewm.png)
+![preview](awesomewm.png)
+## Bspwm
+![preview2](bspwm.png)
 ## Openbox 
 ![preview3](openbox.png)
 ## :snowflake: My Setup
