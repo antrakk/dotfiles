@@ -1,5 +1,5 @@
 ## Bspwm
-![preview](preview.png)
+![preview](bspwm.png)
 ## Awesomewm
 ![preview2](awesomewm.png)
 ## Openbox 
