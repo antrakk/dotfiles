@@ -6,6 +6,7 @@
 ![preview3](openbox.png)
 ## :snowflake: My Setup
 
+- **OS: ** Arch Linux
 - **WM :** openbox/bspwm/awesomewm
 - **Terminal :** kitty/alacritty
 - **Shell :** zsh
